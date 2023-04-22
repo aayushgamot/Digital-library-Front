@@ -1,0 +1,17 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    text-align: center;
+    padding: 8px;
+
+}
+
+tr {
+    border-bottom: 1px solid #ddd;
+}
+img{
+border-radius: 10%;
+}
